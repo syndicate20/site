@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.js": "/syndicate20-public/static/js/main.c533bdcc.chunk.js",
-    "main.js.map": "/syndicate20-public/static/js/main.c533bdcc.chunk.js.map",
+    "main.js": "/syndicate20-public/static/js/main.fa7506a3.chunk.js",
+    "main.js.map": "/syndicate20-public/static/js/main.fa7506a3.chunk.js.map",
     "runtime-main.js": "/syndicate20-public/static/js/runtime-main.88f66982.js",
     "runtime-main.js.map": "/syndicate20-public/static/js/runtime-main.88f66982.js.map",
-    "static/js/2.eccb515f.chunk.js": "/syndicate20-public/static/js/2.eccb515f.chunk.js",
-    "static/js/2.eccb515f.chunk.js.map": "/syndicate20-public/static/js/2.eccb515f.chunk.js.map",
+    "static/js/2.45ca5f08.chunk.js": "/syndicate20-public/static/js/2.45ca5f08.chunk.js",
+    "static/js/2.45ca5f08.chunk.js.map": "/syndicate20-public/static/js/2.45ca5f08.chunk.js.map",
     "index.html": "/syndicate20-public/index.html",
-    "static/js/2.eccb515f.chunk.js.LICENSE.txt": "/syndicate20-public/static/js/2.eccb515f.chunk.js.LICENSE.txt"
+    "static/js/2.45ca5f08.chunk.js.LICENSE.txt": "/syndicate20-public/static/js/2.45ca5f08.chunk.js.LICENSE.txt",
+    "static/media/cross.f8950cd4.svg": "/syndicate20-public/static/media/cross.f8950cd4.svg",
+    "static/media/heart.61dc789a.svg": "/syndicate20-public/static/media/heart.61dc789a.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.88f66982.js",
-    "static/js/2.eccb515f.chunk.js",
-    "static/js/main.c533bdcc.chunk.js"
+    "static/js/2.45ca5f08.chunk.js",
+    "static/js/main.fa7506a3.chunk.js"
   ]
 }

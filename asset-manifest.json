@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/syndicate20-public/static/js/main.3c668a5b.chunk.js",
-    "main.js.map": "/syndicate20-public/static/js/main.3c668a5b.chunk.js.map",
+    "main.js": "/syndicate20-public/static/js/main.ce1df203.chunk.js",
+    "main.js.map": "/syndicate20-public/static/js/main.ce1df203.chunk.js.map",
     "runtime-main.js": "/syndicate20-public/static/js/runtime-main.88f66982.js",
     "runtime-main.js.map": "/syndicate20-public/static/js/runtime-main.88f66982.js.map",
     "static/js/2.72bce523.chunk.js": "/syndicate20-public/static/js/2.72bce523.chunk.js",
@@ -16,6 +16,6 @@
   "entrypoints": [
     "static/js/runtime-main.88f66982.js",
     "static/js/2.72bce523.chunk.js",
-    "static/js/main.3c668a5b.chunk.js"
+    "static/js/main.ce1df203.chunk.js"
   ]
 }

@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/syndicate20-public/static/js/main.3911bfc3.chunk.js",
-    "main.js.map": "/syndicate20-public/static/js/main.3911bfc3.chunk.js.map",
+    "main.js": "/syndicate20-public/static/js/main.49e4387f.chunk.js",
+    "main.js.map": "/syndicate20-public/static/js/main.49e4387f.chunk.js.map",
     "runtime-main.js": "/syndicate20-public/static/js/runtime-main.88f66982.js",
     "runtime-main.js.map": "/syndicate20-public/static/js/runtime-main.88f66982.js.map",
-    "static/js/2.38ff2055.chunk.js": "/syndicate20-public/static/js/2.38ff2055.chunk.js",
-    "static/js/2.38ff2055.chunk.js.map": "/syndicate20-public/static/js/2.38ff2055.chunk.js.map",
+    "static/js/2.8e327908.chunk.js": "/syndicate20-public/static/js/2.8e327908.chunk.js",
+    "static/js/2.8e327908.chunk.js.map": "/syndicate20-public/static/js/2.8e327908.chunk.js.map",
     "index.html": "/syndicate20-public/index.html",
-    "static/js/2.38ff2055.chunk.js.LICENSE.txt": "/syndicate20-public/static/js/2.38ff2055.chunk.js.LICENSE.txt",
+    "static/js/2.8e327908.chunk.js.LICENSE.txt": "/syndicate20-public/static/js/2.8e327908.chunk.js.LICENSE.txt",
     "static/media/001_DR_0.jpg": "/syndicate20-public/static/media/001_DR_0.jpg",
     "static/media/001_DR_1.jpg": "/syndicate20-public/static/media/001_DR_1.jpg",
     "static/media/001_DR_2.jpg": "/syndicate20-public/static/media/001_DR_2.jpg",
@@ -61,8 +61,6 @@
     "static/media/012_DR_2.jpg": "/syndicate20-public/static/media/012_DR_2.jpg",
     "static/media/012_DR_3.jpg": "/syndicate20-public/static/media/012_DR_3.jpg",
     "static/media/012_DR_4.jpg": "/syndicate20-public/static/media/012_DR_4.jpg",
-    "static/media/012_IM_0.jpg": "/syndicate20-public/static/media/012_IM_0.jpg",
-    "static/media/012_IM_7.jpg": "/syndicate20-public/static/media/012_IM_7.jpg",
     "static/media/01_DR_0.jpg": "/syndicate20-public/static/media/01_DR_0.jpg",
     "static/media/01_DR_1.jpg": "/syndicate20-public/static/media/01_DR_1.jpg",
     "static/media/01_DR_2.jpg": "/syndicate20-public/static/media/01_DR_2.jpg",
@@ -122,7 +120,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.88f66982.js",
-    "static/js/2.38ff2055.chunk.js",
-    "static/js/main.3911bfc3.chunk.js"
+    "static/js/2.8e327908.chunk.js",
+    "static/js/main.49e4387f.chunk.js"
   ]
 }

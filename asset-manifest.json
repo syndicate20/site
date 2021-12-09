@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/syndicate20-public/static/js/main.772e3f06.chunk.js",
-    "main.js.map": "/syndicate20-public/static/js/main.772e3f06.chunk.js.map",
+    "main.js": "/syndicate20-public/static/js/main.0c1a2c69.chunk.js",
+    "main.js.map": "/syndicate20-public/static/js/main.0c1a2c69.chunk.js.map",
     "runtime-main.js": "/syndicate20-public/static/js/runtime-main.88f66982.js",
     "runtime-main.js.map": "/syndicate20-public/static/js/runtime-main.88f66982.js.map",
     "static/js/2.95cc691e.chunk.js": "/syndicate20-public/static/js/2.95cc691e.chunk.js",
@@ -128,7 +128,6 @@
     "static/media/07_IM_3.jpg": "/syndicate20-public/static/media/07_IM_3.jpg",
     "static/media/08_DR_0.jpg": "/syndicate20-public/static/media/08_DR_0.jpg",
     "static/media/08_IM_0.jpg": "/syndicate20-public/static/media/08_IM_0.jpg",
-    "static/media/Plus.8422779b.svg": "/syndicate20-public/static/media/Plus.8422779b.svg",
     "static/media/Question.908c803d.svg": "/syndicate20-public/static/media/Question.908c803d.svg",
     "static/media/cross.f8950cd4.svg": "/syndicate20-public/static/media/cross.f8950cd4.svg",
     "static/media/heart.61dc789a.svg": "/syndicate20-public/static/media/heart.61dc789a.svg"
@@ -136,6 +135,6 @@
   "entrypoints": [
     "static/js/runtime-main.88f66982.js",
     "static/js/2.95cc691e.chunk.js",
-    "static/js/main.772e3f06.chunk.js"
+    "static/js/main.0c1a2c69.chunk.js"
   ]
 }
